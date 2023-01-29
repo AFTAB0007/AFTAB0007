@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab0007&label=Profile%20views&color=0e75b6&style=flat" alt="aftab0007" /> </p>
 
