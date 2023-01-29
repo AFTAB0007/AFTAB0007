@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
+![MasterHead](https://thumbs.gfycat.com/PleasantShadowyKinglet-max-1mb.gif)
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">A passionate Data Scientist</h3>
