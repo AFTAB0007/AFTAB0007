@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://lh4.googleusercontent.com/dFlNyPlSE3Rb2LEaIRtNPiJEhBo6tDMbTPuYJde-oBI7Fu0leEutCShvNglG4jjRBGlOIJu1lCoZMD2wU643RQepUcrPguJyNCJPXOyGgE5zU5iMKbY2hjwpYxkl9l-VHHt5pkAKi7hP1_ikSBDFieo)]
+[![MasterHead]([https://lh4.googleusercontent.com/dFlNyPlSE3Rb2LEaIRtNPiJEhBo6tDMbTPuYJde-oBI7Fu0leEutCShvNglG4jjRBGlOIJu1lCoZMD2wU643RQepUcrPguJyNCJPXOyGgE5zU5iMKbY2hjwpYxkl9l-VHHt5pkAKi7hP1_ikSBDFieo](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif))]
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">A passionate Data Scientist</h3>
