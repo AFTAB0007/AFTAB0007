@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](https://thumbs.gfycat.com/PleasantShadowyKinglet-max-1mb.gif)
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"   alt="drawing" width="600" height="400"/>
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">A passionate Data Scientist</h3>
