@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"   alt="drawing" width="600" height="400"/>
 
-<h1 align="center">Hi 👋, I'm Aftab Alam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px" height ="24px">   , I'm Aftab Alam</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
